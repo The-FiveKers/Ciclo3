@@ -7,4 +7,6 @@ public class Sprint1 {
 
     // Yesid Santiago Angulo Lasso = Analista
 
+    //Guillermo Antonio Barrera Valencia = Desarrollador
+
 }
